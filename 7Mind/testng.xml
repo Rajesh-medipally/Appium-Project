@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="7Mind">
+
+<listeners>
+<listener class-name= "com.sevenMind.utilities.Reporting"/>
+
+</listeners>
+
+
+	<test name="7Mind Application Test">
+		<classes>
+		<class name="com.sevenMind.testCases.TS_7M_005"/>
+		<class name="com.sevenMind.testCases.TS_7M_006"/>
+		
+		
+		</classes>
+	
+	
+	</test>
+
+
+
+
+</suite>
+
+
