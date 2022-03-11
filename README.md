@@ -6,7 +6,7 @@ Where, only Register and Login functionalities have been automated.
 This file is for presentation purpose.
 
 The Project include :
--	Technologies:
+## Technologies:
 -	Selenium
 -	Java
 -	Appium (GUI and Inspector)
