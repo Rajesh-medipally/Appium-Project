@@ -34,25 +34,6 @@ As Follows the folder structure.
 |─── test- output            
 |─── application.log            
 |─── pom.xml            
-|─── testng.xml            
-            
-            
-            
-│             ├── test_cat_dog
-│             ├── testing
-│         │   ├── cats
-│   │   └── dogs
-│   └── training
-│       ├── cats
-│       └── dogs
-└── PetImages
-    ├── Cat
-    └── Dog
-    ```
-```tree
-graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
+|─── testng.xml                     
+                       
 ```
