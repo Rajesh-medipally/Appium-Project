@@ -12,6 +12,8 @@ The Project include :
 -	Appium (GUI and Inspector)
 -	TestNG
 -	Maven
+-	extent Report
+-	Log4j
 
 Here in this repository excel file shows the documentation of the test cases and test scenarios.
 Which include :
@@ -86,5 +88,16 @@ Step 3 :
 - click File-> Open File -> select folder 7Mind. (make sure eclipse has maven installed).
 - sync the project to eclipse 
 - open 7Mind-> Configurations -> config.properties file
-- it looks like below 
-- 
+- it looks like below diagram
+ ![config file](https://user-images.githubusercontent.com/52613470/157950313-d57f42fd-fd7d-488f-a8f1-4bd029975cb3.png)
+ 
+ change platformVersion value to your mobile device android version number.
+ change deviceName to your device name . to do that open cmd prompt and enter adb devices .  than the list of connected device names will pop up.
+ after configuring device details 
+ open pom.xml and run -> maven install. 
+ 
+ when the exexution process is over, the project produces 2 files. 
+ 
+ 1) 7Mind -> application.log . this folder contains all the test logs in it. 
+ 2) 
+
