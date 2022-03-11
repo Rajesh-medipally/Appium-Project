@@ -57,5 +57,5 @@ Basic Installations :
       - after downloading the .exe package contiue procedure of installation.
       - start the application by double tap on  icon. 
 
-    ![appium gui ](https://user-images.githubusercontent.com/52613470/157946686-5d198747-ee3d-472e-aa9e-85567654cdb8.png)
+   ![appium gui ](https://user-images.githubusercontent.com/52613470/157946686-5d198747-ee3d-472e-aa9e-85567654cdb8.png)
 
