@@ -56,6 +56,6 @@ Basic Installations :
       - then click on the link which specifies Appium-Server-GUI-windows-(Version Number).exe  (for windows systems).
       - after downloading the .exe package contiue procedure of installation.
       - start the application by double tap on  icon. 
-      
-      ![Appium](C:\Users\mraje\Pictures\Screenshots\appium process.png?raw=true "Title")
-  
+
+    ![appium gui ](https://user-images.githubusercontent.com/52613470/157946686-5d198747-ee3d-472e-aa9e-85567654cdb8.png)
+
