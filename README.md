@@ -81,4 +81,10 @@ Step 2:
 - install [Air Droid] (https://www.airdroid.com/de/download/airdroid-personal/) for Desktop as well as mobile and complete the login process also make sure devices connected.
 
 Step 3 :
-Download the project from [this]() github
+- Download the project from [this](https://github.com/Rajesh-medipally/Appium-Project) github page.
+- open eclipse.
+- click File-> Open File -> select folder 7Mind. (make sure eclipse has maven installed).
+- sync the project to eclipse 
+- open 7Mind-> Configurations -> config.properties file
+- it looks like below 
+- 
