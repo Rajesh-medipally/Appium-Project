@@ -13,6 +13,18 @@ The Project include :
 -	TestNG
 -	Maven
 
+Here in this repository excel file shows the documentation of the test cases and test scenarios.
+Which include :
+  - App Logo
+  - App Launch
+  - Welcome function
+  - Register functionality
+  - Login functionality
+  - Forgot Password functionality
+
+
+The automated source package is started named after 7Mind.
+
 This Project uses POM (Page Object Model ).
 As Follows the folder structure.
 
@@ -57,5 +69,16 @@ Basic Installations :
       - after downloading the .exe package contiue procedure of installation.
       - start the application by double tap on  icon. 
 
+
+when app opens it looks like this
+
    ![appium gui ](https://user-images.githubusercontent.com/52613470/157946686-5d198747-ee3d-472e-aa9e-85567654cdb8.png)
 
+- click on start server button.
+Step 2:
+- Connect your mobile device to the system, 
+- If you dont have virtual mobile options in your system 
+- install [Air Droid] (https://www.airdroid.com/de/download/airdroid-personal/) for Desktop as well as mobile and complete the login process also make sure devices connected.
+
+Step 3 :
+Download the project from [this]() github
