@@ -105,6 +105,9 @@ Step 3 :
     to open
     7Mind -> test- reports -> (corresponding report with latest time ) and right click -> open with -> system editor.
         the file looks like below.
-        
-    
+        ![ext report](https://user-images.githubusercontent.com/52613470/157954168-abffed92-4114-4337-be02-09ae11714bf9.png)
+
+
+
+Thank you
 
