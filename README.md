@@ -78,7 +78,7 @@ when app opens it looks like this
 
 - click on start server button.
 Step 2:
-- Connect your mobile device to the system, 
+- Connect your mobile device to the system,  (dont forget Switch on developer mode with USB debugging ON)
 - If you dont have virtual mobile options in your system 
 - install [Air Droid] (https://www.airdroid.com/de/download/airdroid-personal/) for Desktop as well as mobile and complete the login process also make sure devices connected.
 
@@ -99,5 +99,12 @@ Step 3 :
  when the exexution process is over, the project produces 2 files. 
  
  1) 7Mind -> application.log . this folder contains all the test logs in it. 
- 2) 
+          the file looks like below
+          ![applilog](https://user-images.githubusercontent.com/52613470/157951551-301bac80-605e-4edf-b8ad-9fda3eaf6918.png)
+2) extent Report is a file which contains all the test case results. 
+    to open
+    7Mind -> test- reports -> (corresponding report with latest time ) and right click -> open with -> system editor.
+        the file looks like below.
+        
+    
 
