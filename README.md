@@ -37,3 +37,25 @@ As Follows the folder structure.
 |─── testng.xml                     
                        
 ```
+
+
+
+To run this Project
+
+Basic Installations :
+- JAVA JDK 
+- Eclipse IDE 
+    and set the Environmet Valiable JAVA_HOME.
+    
+ Appium installations :
+  (click the links to proceed)
+
+## Step 1:-
+  Install [Appium GUI](https://appium.io/).
+      - click Download Appium button it will navigate to a Gitub Page.
+      - then click on the link which specifies Appium-Server-GUI-windows-(Version Number).exe  (for windows systems).
+      - after downloading the .exe package contiue procedure of installation.
+      - start the application by double tap on  icon. 
+      
+      ![Appium](C:\Users\mraje\Pictures\Screenshots\appium process.png?raw=true "Title")
+  
