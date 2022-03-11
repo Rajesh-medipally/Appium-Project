@@ -89,6 +89,7 @@ when app opens it looks like this
 - sync the project to eclipse 
 - open 7Mind-> Configurations -> config.properties file
 - it looks like below diagram
+
  ![config file](https://user-images.githubusercontent.com/52613470/157950313-d57f42fd-fd7d-488f-a8f1-4bd029975cb3.png)
  
  change platformVersion value to your mobile device android version number.
@@ -100,12 +101,14 @@ when app opens it looks like this
  
  1) 7Mind -> application.log . this folder contains all the test logs in it. 
           the file looks like below
-          ![applilog](https://user-images.githubusercontent.com/52613470/157951551-301bac80-605e-4edf-b8ad-9fda3eaf6918.png)
+          
+      ![applilog](https://user-images.githubusercontent.com/52613470/157951551-301bac80-605e-4edf-b8ad-9fda3eaf6918.png)
 2) extent Report is a file which contains all the test case results. 
     to open
     7Mind -> test- reports -> (corresponding report with latest time ) and right click -> open with -> system editor.
         the file looks like below.
-        ![ext report](https://user-images.githubusercontent.com/52613470/157954168-abffed92-4114-4337-be02-09ae11714bf9.png)
+        
+      ![ext report](https://user-images.githubusercontent.com/52613470/157954168-abffed92-4114-4337-be02-09ae11714bf9.png)
 
 
 
