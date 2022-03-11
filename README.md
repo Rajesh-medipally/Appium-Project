@@ -77,12 +77,12 @@ when app opens it looks like this
    ![appium gui ](https://user-images.githubusercontent.com/52613470/157946686-5d198747-ee3d-472e-aa9e-85567654cdb8.png)
 
 - click on start server button.
-Step 2:
+## Step 2:
 - Connect your mobile device to the system,  (dont forget Switch on developer mode with USB debugging ON)
 - If you dont have virtual mobile options in your system 
 - install [Air Droid] (https://www.airdroid.com/de/download/airdroid-personal/) for Desktop as well as mobile and complete the login process also make sure devices connected.
 
-Step 3 :
+## Step 3 :
 - Download the project from [this](https://github.com/Rajesh-medipally/Appium-Project) github page.
 - open eclipse.
 - click File-> Open File -> select folder 7Mind. (make sure eclipse has maven installed).
