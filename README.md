@@ -45,7 +45,7 @@ As Follows the folder structure.
 |            
 |─── Configurations            
 |─── ScreenShots            
-|─── test- output            
+|─── test-reports            
 |─── application.log            
 |─── pom.xml            
 |─── testng.xml                     
