@@ -1,7 +1,7 @@
 
 # 7Mind Application Sample Automation 
 
-This is a sample automation project using the application 7Mind application. 
+This is a sample automation project using the 7Mind application. 
 Where, only Register and Login functionalities have been automated.
 This file is for presentation purpose.
 
